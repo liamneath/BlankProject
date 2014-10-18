@@ -8,6 +8,8 @@
  * This file will eventually implement the game of Breakout.
  */
 
+import java.awt.Color;
+
 import acm.graphics.*;
 
 
