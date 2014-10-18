@@ -9,12 +9,7 @@
  */
 
 import acm.graphics.*;
-import acm.program.*;
-import acm.util.*;
 
-import java.applet.*;
-import java.awt.*;
-import java.awt.event.*;
 
 public class BlankClass extends GCompound {
 	private static final int WIDTH = 400;
