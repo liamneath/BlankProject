@@ -341,4 +341,14 @@ public class BlankClass extends GraphicsProgram {
 		placeGreenBricks();
 		placeCyanBricks();
 	}
+	private GRect laserBox;
+	private double powerUpHeight  = 0.75* BRICK_HEIGHT;
+	private double powerUpWidth = 0.5* BRICK_WIDTH;
+// EXTENSIONS FOLLOW FROM HERE
+	public class makeLaserPowerUpIcon extends GCompound{
+		 
+		  
+	 }
+
+
 }
